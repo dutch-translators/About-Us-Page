@@ -24,7 +24,7 @@ $lang = array_merge($lang, array(
 	'ABOUTUS_UPDATED'				=> 'Over ons is succesvol bijgewerkt.',
 
 	'ACP_ABOUTUS_ENABLE'			=> 'Over Ons',
-	'ACP_ABOUTUS_ENABLE_EXPLAIN'	=> 'Wanneer "ingeschakeld" wordt er een link in de footer van de pagina weergeven die linkt naar de "Over ons" pagina. Wanneer "Uitgeschakeld" wordt de link in de footer niet getoond, deze optie zal de tekst die je hebt opgemaakt niet verwijderen.',
+	'ACP_ABOUTUS_ENABLE_EXPLAIN'	=> 'Wanneer "Ingeschakeld" wordt er een link in de footer van de pagina weergeven die linkt naar de "Over ons" pagina. Wanneer "Uitgeschakeld" wordt de link in de footer niet getoond, deze optie zal de tekst die je hebt opgemaakt niet verwijderen.',
 	'ACP_ABOUTUS_SETTINGS'			=> 'Over ons instellingen',
 	'ACP_ABOUTUS_SETTINGS_EXPLAIN'	=> 'Hier kan je de tekst voor de "Over ons" pagina aanpassen en je kan de "Over ons"-pagina inschakelen of uitschakelen.',
 	'ACP_ABOUTUS_INFO'				=> 'Over ons Tekst',
