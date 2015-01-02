@@ -23,6 +23,8 @@ $lang = array_merge($lang, array(
 	'ABOUTUS_SETTINGS'				=> '“Over ons”-instellingen',
 	'ABOUTUS_UPDATED'				=> '“Over ons” is succesvol bijgewerkt.',
 
+	'ACP_ABOUTUS_ENABLE'			=> 'Over ons inschakelen',
+	'ACP_ABOUTUS_ENABLE_EXPLAIN'	=> 'Als de "Over ons" pagina uitgeschakeld is, laat je forum de link in de footer naar de "Over" pagina niet zien. Desalniettemin kan je met de link "app.php/aboutus" de "Over ons" pagina nog steeds bekijken.',	
 	'ACP_ABOUTUS_INFO'				=> '“Over ons”-tekst',
 	'ACP_ABOUTUS_INFO_EXPLAIN'		=> 'Hier kan je de tekst aanpassen die wordt weergegeven op de “Over ons”-pagina.',	
     'ACP_ABOUTUS_INFO_PREVIEW'		=> '“Over ons” voorbeeld',	
